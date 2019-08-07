@@ -1,0 +1,20 @@
+.affichage {
+    background-color: lightblue;
+    border: 1px black solid;
+    color: grey;
+    height: 150px;
+}
+
+aside {
+    width: 100vh;
+}
+
+.block {
+    background-color: lightgrey;
+    border: 1px blue solid;
+    height: 50px;
+}
+
+.container {
+    text-align: center;
+}
