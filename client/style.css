@@ -9,14 +9,37 @@ aside {
     width: 100vh;
 }
 
-.block {
-    background-color: lightgrey;
+.block1 {
+    background-color: lightslategray;
     border: 1px blue solid;
     height: 50px;
+    text-align: center;
+}
+
+.block2 {
+    background-color: lightcoral;
+    border: 1px blue solid;
+    height: 50px;
+    text-align: center;
+}
+
+.block3 {
+    background-color: lightskyblue;
+    border: 1px blue solid;
+    height: 50px;
+    text-align: center;
+}
+
+.block4 {
+    background-color: lightblue;
+    border: 1px blue solid;
+    height: 50px;
+    text-align: center;
 }
 
 .container {
-    text-align: center;
+    /*text-align: center;*/
+    /*justify-content: center;*/
 }
 
 @media (min-width: 768px) {
